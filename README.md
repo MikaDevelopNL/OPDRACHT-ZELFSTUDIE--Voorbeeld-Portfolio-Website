@@ -36,7 +36,7 @@ Ik maak regelmatig kleine projecten om mijn vaardigheden steeds verder te ontwik
 
 ## 🚀 Live Demo
 
-https://mikadevelopnl.github.io/Voorbeeld-Portfolio-Website/
+https://mikadevelopnl.github.io/OPDRACHT-ZELFSTUDIE--Voorbeeld-Portfolio-Website/
 
 ## 📌 Status
 
